@@ -6,3 +6,5 @@ public class Main_rennsyuu {
 }
 //岸本参上！
 
+//１回目山野コメント
+
