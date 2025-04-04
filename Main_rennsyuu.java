@@ -10,3 +10,6 @@ public class Main_rennsyuu {
 //pull noeditのパターン試し
 
 //１回目山野コメント
+
+//４月４日今日は練習問題を行っています。
+
